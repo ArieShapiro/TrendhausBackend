@@ -1,0 +1,17 @@
+{
+  "name": "trendhaus-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Arie Shapiro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemailer": "^4.7.0",
+    "nodemailer-smtp-transport": "^2.7.4"
+  }
+}
